@@ -46,7 +46,7 @@ Proyek ini bertujuan untuk menganalisis pola kunjungan berdasarkan waktu dan lok
 4. **Analisis Zona Waktu**  
    Memanfaatkan heatmap untuk menunjukkan bagaimana zona waktu memengaruhi pola kunjungan pengguna.
 
-## Visualisasi dan Temuan
+## Hasil dari Visualisasi
 
 - **Pola Aktivitas Harian**:  
   - Aktivitas di New York memuncak pada malam hari (20:00–23:00), sementara di Tokyo lebih aktif pada pagi hari (09:00–11:00).  
