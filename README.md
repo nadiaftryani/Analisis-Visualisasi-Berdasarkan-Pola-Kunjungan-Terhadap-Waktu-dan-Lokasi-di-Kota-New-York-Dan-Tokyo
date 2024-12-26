@@ -1,9 +1,9 @@
 # Analisis-Visualisasi-Berdasarkan-Pola-Kunjungan-Terhadap-Waktu-dan-Lokasi-di-Kota-New-York-Dan-Tokyo
 
-##Tim Peneliti:
-Nadia Fitriyani (nadia.121450101@student.itera.ac.id)
-Eksanty F Sugma Islamiaty (eksanty.122450001@student.itera.ac.id)
-Muhammad Bayu Syuhada (muhammad.122450007@student.itera.ac.id)
+## Tim Peneliti:
+- Nadia Fitriyani ([nadia.121450101@student.itera.ac.id](mailto:nadia.121450101@student.itera.ac.id))
+- Eksanty F Sugma Islamiaty ([eksanty.122450001@student.itera.ac.id](mailto:eksanty.122450001@student.itera.ac.id))
+- Muhammad Bayu Syuhada ([muhammad.122450007@student.itera.ac.id](mailto:muhammad.122450007@student.itera.ac.id))
 
 Proyek ini bertujuan untuk menganalisis pola kunjungan berdasarkan waktu dan lokasi di dua kota besar, New York dan Tokyo, dengan memanfaatkan dataset check-in. Visualisasi data digunakan untuk mengidentifikasi tren dan pola perilaku masyarakat berdasarkan lokasi, waktu, serta kategori tempat.
 
